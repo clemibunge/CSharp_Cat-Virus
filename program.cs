@@ -51,7 +51,7 @@ namespace USBCAT
         {
             if(!catINF)
             {
-                System.Diagnostics.Process.Start("https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=3640f6095bce417137716b426f0708bf");
+                System.Diagnostics.Process.Start("https://google.com");
                 catINF = true;
             }
         }
@@ -60,7 +60,7 @@ namespace USBCAT
         {
             if (!ransINF)
             {
-                System.Diagnostics.Process.Start("https://geekprank.com/fake-virus/");
+                System.Diagnostics.Process.Start("https://bing.com");
                 ransINF = true;
             }
         }
